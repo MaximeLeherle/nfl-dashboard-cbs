@@ -1,0 +1,505 @@
+{
+ "updatedAt": "2026-11-14T18:48:22.080Z",
+ "eventId": 101,
+ "races": [
+  {
+   "id": 518,
+   "name": "Individuel adulte"
+  },
+  {
+   "id": 519,
+   "name": "Individuel enfant"
+  },
+  {
+   "id": 520,
+   "name": "Animal"
+  },
+  {
+   "id": 521,
+   "name": "Course 12 H SOLO"
+  },
+  {
+   "id": 523,
+   "name": "TROPHEE 24 H SOLO"
+  },
+  {
+   "id": 525,
+   "name": "Challenge 8 jours"
+  }
+ ],
+ "runners": [
+  {
+   "bib": 1320,
+   "race": 518,
+   "first": "Antoine",
+   "last": "Amiard",
+   "sex": "M",
+   "cat": "SE",
+   "nbCat": 393,
+   "nbSex": 968,
+   "nbTotal": 2120
+  },
+  {
+   "bib": 1322,
+   "race": 518,
+   "first": "Emmanuel",
+   "last": "Bertolino",
+   "sex": "M",
+   "cat": "M0",
+   "nbCat": 165,
+   "nbSex": 968,
+   "nbTotal": 2120
+  },
+  {
+   "bib": 12923,
+   "race": 518,
+   "first": "Myriam",
+   "last": "Bertolino",
+   "sex": "F",
+   "cat": "M0",
+   "nbCat": 165,
+   "nbSex": 1152,
+   "nbTotal": 2120
+  },
+  {
+   "bib": 12834,
+   "race": 518,
+   "first": "Anne-Sophie",
+   "last": "Boyer",
+   "sex": "F",
+   "cat": "M2",
+   "nbCat": 237,
+   "nbSex": 1152,
+   "nbTotal": 2120
+  },
+  {
+   "bib": 2345,
+   "race": 518,
+   "first": "Sébastien",
+   "last": "Boyer",
+   "sex": "M",
+   "cat": "M2",
+   "nbCat": 237,
+   "nbSex": 968,
+   "nbTotal": 2120
+  },
+  {
+   "bib": 3605,
+   "race": 518,
+   "first": "Laurène",
+   "last": "Brossette",
+   "sex": "F",
+   "cat": "SE",
+   "nbCat": 393,
+   "nbSex": 1152,
+   "nbTotal": 2120
+  },
+  {
+   "bib": 1450,
+   "race": 518,
+   "first": "Stéphane",
+   "last": "Brunet",
+   "sex": "M",
+   "cat": "M1",
+   "nbCat": 195,
+   "nbSex": 968,
+   "nbTotal": 2120
+  },
+  {
+   "bib": 1446,
+   "race": 518,
+   "first": "Timothée",
+   "last": "Capron",
+   "sex": "M",
+   "cat": "SE",
+   "nbCat": 393,
+   "nbSex": 968,
+   "nbTotal": 2120
+  },
+  {
+   "bib": 1095,
+   "race": 518,
+   "first": "Paul",
+   "last": "Carré",
+   "sex": "M",
+   "cat": "SE",
+   "nbCat": 393,
+   "nbSex": 968,
+   "nbTotal": 2120
+  },
+  {
+   "bib": 2117,
+   "race": 518,
+   "first": "Anaïs",
+   "last": "Chauvet",
+   "sex": "F",
+   "cat": "M2",
+   "nbCat": 237,
+   "nbSex": 1152,
+   "nbTotal": 2120
+  },
+  {
+   "bib": 2116,
+   "race": 518,
+   "first": "Walid",
+   "last": "Daoud",
+   "sex": "M",
+   "cat": "SE",
+   "nbCat": 393,
+   "nbSex": 968,
+   "nbTotal": 2120
+  },
+  {
+   "bib": 2114,
+   "race": 518,
+   "first": "Arnaud",
+   "last": "Delpoux",
+   "sex": "M",
+   "cat": "M0",
+   "nbCat": 165,
+   "nbSex": 968,
+   "nbTotal": 2120
+  },
+  {
+   "bib": 2347,
+   "race": 518,
+   "first": "Aurélien",
+   "last": "Diers",
+   "sex": "M",
+   "cat": "M3",
+   "nbCat": 225,
+   "nbSex": 968,
+   "nbTotal": 2120
+  },
+  {
+   "bib": 2119,
+   "race": 518,
+   "first": "Louis-Sébastien",
+   "last": "El Hachem",
+   "sex": "M",
+   "cat": "M1",
+   "nbCat": 195,
+   "nbSex": 968,
+   "nbTotal": 2120
+  },
+  {
+   "bib": 1135,
+   "race": 518,
+   "first": "Fouad",
+   "last": "Er-Rhif",
+   "sex": "M",
+   "cat": "M1",
+   "nbCat": 195,
+   "nbSex": 968,
+   "nbTotal": 2120
+  },
+  {
+   "bib": 1096,
+   "race": 518,
+   "first": "Jeff",
+   "last": "Estival",
+   "sex": "M",
+   "cat": "M3",
+   "nbCat": 225,
+   "nbSex": 968,
+   "nbTotal": 2120
+  },
+  {
+   "bib": 1134,
+   "race": 518,
+   "first": "Emmanuel",
+   "last": "Finocchiaro",
+   "sex": "M",
+   "cat": "M1",
+   "nbCat": 195,
+   "nbSex": 968,
+   "nbTotal": 2120
+  },
+  {
+   "bib": 1627,
+   "race": 518,
+   "first": "Victor",
+   "last": "Garel",
+   "sex": "M",
+   "cat": "SE",
+   "nbCat": 393,
+   "nbSex": 968,
+   "nbTotal": 2120
+  },
+  {
+   "bib": 2133,
+   "race": 518,
+   "first": "Ines",
+   "last": "Guilbard",
+   "sex": "F",
+   "cat": "M2",
+   "nbCat": 237,
+   "nbSex": 1152,
+   "nbTotal": 2120
+  },
+  {
+   "bib": 1098,
+   "race": 518,
+   "first": "Tatsiana",
+   "last": "Hulevich",
+   "sex": "F",
+   "cat": "M1",
+   "nbCat": 195,
+   "nbSex": 1152,
+   "nbTotal": 2120
+  },
+  {
+   "bib": 2136,
+   "race": 518,
+   "first": "Théo",
+   "last": "Jeannes",
+   "sex": "M",
+   "cat": "SE",
+   "nbCat": 393,
+   "nbSex": 968,
+   "nbTotal": 2120
+  },
+  {
+   "bib": 2115,
+   "race": 518,
+   "first": "Anaïs",
+   "last": "Khorn",
+   "sex": "F",
+   "cat": "SE",
+   "nbCat": 393,
+   "nbSex": 1152,
+   "nbTotal": 2120
+  },
+  {
+   "bib": 1458,
+   "race": 518,
+   "first": "Gregor",
+   "last": "Kuczynski",
+   "sex": "M",
+   "cat": "M2",
+   "nbCat": 237,
+   "nbSex": 968,
+   "nbTotal": 2120
+  },
+  {
+   "bib": 1452,
+   "race": 518,
+   "first": "Théo",
+   "last": "Labaste",
+   "sex": "M",
+   "cat": "SE",
+   "nbCat": 393,
+   "nbSex": 968,
+   "nbTotal": 2120
+  },
+  {
+   "bib": 1112,
+   "race": 518,
+   "first": "Maxime",
+   "last": "Leherle",
+   "sex": "M",
+   "cat": "SE",
+   "nbCat": 393,
+   "nbSex": 968,
+   "nbTotal": 2120
+  },
+  {
+   "bib": 1321,
+   "race": 518,
+   "first": "Pierre-Manuel",
+   "last": "Lheureux",
+   "sex": "M",
+   "cat": "SE",
+   "nbCat": 393,
+   "nbSex": 968,
+   "nbTotal": 2120
+  },
+  {
+   "bib": 3604,
+   "race": 518,
+   "first": "Mikael",
+   "last": "Lombard",
+   "sex": "M",
+   "cat": "M0",
+   "nbCat": 165,
+   "nbSex": 968,
+   "nbTotal": 2120
+  },
+  {
+   "bib": 1111,
+   "race": 518,
+   "first": "Gaetan",
+   "last": "Mace",
+   "sex": "M",
+   "cat": "M0",
+   "nbCat": 165,
+   "nbSex": 968,
+   "nbTotal": 2120
+  },
+  {
+   "bib": 1099,
+   "race": 518,
+   "first": "Maxime",
+   "last": "Maillet",
+   "sex": "M",
+   "cat": "SE",
+   "nbCat": 393,
+   "nbSex": 968,
+   "nbTotal": 2120
+  },
+  {
+   "bib": 1152,
+   "race": 518,
+   "first": "Vincent",
+   "last": "Mercier",
+   "sex": "M",
+   "cat": "SE",
+   "nbCat": 393,
+   "nbSex": 968,
+   "nbTotal": 2120
+  },
+  {
+   "bib": 1097,
+   "race": 518,
+   "first": "Maeva",
+   "last": "Michel",
+   "sex": "F",
+   "cat": "M0",
+   "nbCat": 165,
+   "nbSex": 1152,
+   "nbTotal": 2120
+  },
+  {
+   "bib": 1285,
+   "race": 518,
+   "first": "Maxime",
+   "last": "Michel",
+   "sex": "M",
+   "cat": "SE",
+   "nbCat": 393,
+   "nbSex": 968,
+   "nbTotal": 2120
+  },
+  {
+   "bib": 1145,
+   "race": 518,
+   "first": "Olivier",
+   "last": "Moschetti",
+   "sex": "M",
+   "cat": "M3",
+   "nbCat": 225,
+   "nbSex": 968,
+   "nbTotal": 2120
+  },
+  {
+   "bib": 2130,
+   "race": 518,
+   "first": "Martin",
+   "last": "Naud",
+   "sex": "M",
+   "cat": "SE",
+   "nbCat": 393,
+   "nbSex": 968,
+   "nbTotal": 2120
+  },
+  {
+   "bib": 1451,
+   "race": 518,
+   "first": "Enora",
+   "last": "Nowak",
+   "sex": "F",
+   "cat": "SE",
+   "nbCat": 393,
+   "nbSex": 1152,
+   "nbTotal": 2120
+  },
+  {
+   "bib": 1089,
+   "race": 518,
+   "first": "Stephane",
+   "last": "Olivier",
+   "sex": "M",
+   "cat": "M3",
+   "nbCat": 225,
+   "nbSex": 968,
+   "nbTotal": 2120
+  },
+  {
+   "bib": 2120,
+   "race": 518,
+   "first": "Arnaud",
+   "last": "Py",
+   "sex": "M",
+   "cat": "M0",
+   "nbCat": 165,
+   "nbSex": 968,
+   "nbTotal": 2120
+  },
+  {
+   "bib": 1445,
+   "race": 518,
+   "first": "Thibaut",
+   "last": "Rost",
+   "sex": "M",
+   "cat": "M1",
+   "nbCat": 195,
+   "nbSex": 968,
+   "nbTotal": 2120
+  },
+  {
+   "bib": 2118,
+   "race": 518,
+   "first": "Khadijat",
+   "last": "Tcherguizova",
+   "sex": "F",
+   "cat": "SE",
+   "nbCat": 393,
+   "nbSex": 1152,
+   "nbTotal": 2120
+  },
+  {
+   "bib": 1136,
+   "race": 518,
+   "first": "Thierry",
+   "last": "Tsang",
+   "sex": "M",
+   "cat": "SE",
+   "nbCat": 393,
+   "nbSex": 968,
+   "nbTotal": 2120
+  },
+  {
+   "bib": 1534,
+   "race": 518,
+   "first": "Alexis",
+   "last": "Vassalo",
+   "sex": "M",
+   "cat": "SE",
+   "nbCat": 393,
+   "nbSex": 968,
+   "nbTotal": 2120
+  },
+  {
+   "bib": 1910,
+   "race": 518,
+   "first": "Bruno",
+   "last": "Vaz Azevedo",
+   "sex": "M",
+   "cat": "M0",
+   "nbCat": 165,
+   "nbSex": 968,
+   "nbTotal": 2120
+  },
+  {
+   "bib": 1143,
+   "race": 518,
+   "first": "Louis",
+   "last": "Villedieu",
+   "sex": "M",
+   "cat": "SE",
+   "nbCat": 393,
+   "nbSex": 968,
+   "nbTotal": 2120
+  }
+ ]
+}
