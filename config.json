@@ -6,7 +6,8 @@
     "color": "#2a78d6",
     "colorDark": "#3987e5",
     "compareColor": "#eb6834",
-    "compareColorDark": "#d95926"
+    "compareColorDark": "#d95926",
+    "goalKm": 2500
   },
   "event": {
     "base": "NFL26",
