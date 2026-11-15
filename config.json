@@ -19,6 +19,6 @@
   },
   "extraRunners": [],
   "excludeBibs": [],
-  "rosterRefreshHours": 24,
+  "scanMinutes": 60,
   "peers": { "pct": 25, "min": 2 }
 }
