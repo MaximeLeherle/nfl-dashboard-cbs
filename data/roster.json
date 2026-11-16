@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-16T03:38:34.009Z",
+ "updatedAt": "2026-11-16T04:43:33.346Z",
  "eventId": 101,
  "races": [
   {
@@ -36,8 +36,8 @@
    "sex": "M",
    "cat": "SE",
    "nbCat": 833,
-   "nbSex": 1855,
-   "nbTotal": 4028
+   "nbSex": 1857,
+   "nbTotal": 4032
   },
   {
    "bib": 1322,
@@ -47,8 +47,8 @@
    "sex": "M",
    "cat": "M0",
    "nbCat": 339,
-   "nbSex": 1855,
-   "nbTotal": 4028
+   "nbSex": 1857,
+   "nbTotal": 4032
   },
   {
    "bib": 12923,
@@ -58,8 +58,8 @@
    "sex": "F",
    "cat": "M0",
    "nbCat": 339,
-   "nbSex": 2173,
-   "nbTotal": 4028
+   "nbSex": 2175,
+   "nbTotal": 4032
   },
   {
    "bib": 12834,
@@ -69,8 +69,8 @@
    "sex": "F",
    "cat": "M2",
    "nbCat": 451,
-   "nbSex": 2173,
-   "nbTotal": 4028
+   "nbSex": 2175,
+   "nbTotal": 4032
   },
   {
    "bib": 2345,
@@ -80,8 +80,8 @@
    "sex": "M",
    "cat": "M2",
    "nbCat": 451,
-   "nbSex": 1855,
-   "nbTotal": 4028
+   "nbSex": 1857,
+   "nbTotal": 4032
   },
   {
    "bib": 3605,
@@ -91,8 +91,8 @@
    "sex": "F",
    "cat": "SE",
    "nbCat": 833,
-   "nbSex": 2173,
-   "nbTotal": 4028
+   "nbSex": 2175,
+   "nbTotal": 4032
   },
   {
    "bib": 1450,
@@ -101,9 +101,9 @@
    "last": "Brunet",
    "sex": "M",
    "cat": "M1",
-   "nbCat": 398,
-   "nbSex": 1855,
-   "nbTotal": 4028
+   "nbCat": 399,
+   "nbSex": 1857,
+   "nbTotal": 4032
   },
   {
    "bib": 1446,
@@ -113,8 +113,8 @@
    "sex": "M",
    "cat": "SE",
    "nbCat": 833,
-   "nbSex": 1855,
-   "nbTotal": 4028
+   "nbSex": 1857,
+   "nbTotal": 4032
   },
   {
    "bib": 1095,
@@ -124,8 +124,8 @@
    "sex": "M",
    "cat": "SE",
    "nbCat": 833,
-   "nbSex": 1855,
-   "nbTotal": 4028
+   "nbSex": 1857,
+   "nbTotal": 4032
   },
   {
    "bib": 2117,
@@ -135,8 +135,8 @@
    "sex": "F",
    "cat": "M2",
    "nbCat": 451,
-   "nbSex": 2173,
-   "nbTotal": 4028
+   "nbSex": 2175,
+   "nbTotal": 4032
   },
   {
    "bib": 2116,
@@ -146,8 +146,8 @@
    "sex": "M",
    "cat": "SE",
    "nbCat": 833,
-   "nbSex": 1855,
-   "nbTotal": 4028
+   "nbSex": 1857,
+   "nbTotal": 4032
   },
   {
    "bib": 2114,
@@ -157,8 +157,8 @@
    "sex": "M",
    "cat": "M0",
    "nbCat": 339,
-   "nbSex": 1855,
-   "nbTotal": 4028
+   "nbSex": 1857,
+   "nbTotal": 4032
   },
   {
    "bib": 2347,
@@ -167,9 +167,9 @@
    "last": "Diers",
    "sex": "M",
    "cat": "M3",
-   "nbCat": 414,
-   "nbSex": 1855,
-   "nbTotal": 4028
+   "nbCat": 415,
+   "nbSex": 1857,
+   "nbTotal": 4032
   },
   {
    "bib": 2119,
@@ -178,9 +178,9 @@
    "last": "El Hachem",
    "sex": "M",
    "cat": "M1",
-   "nbCat": 398,
-   "nbSex": 1855,
-   "nbTotal": 4028
+   "nbCat": 399,
+   "nbSex": 1857,
+   "nbTotal": 4032
   },
   {
    "bib": 1135,
@@ -189,9 +189,9 @@
    "last": "Er-Rhif",
    "sex": "M",
    "cat": "M1",
-   "nbCat": 398,
-   "nbSex": 1855,
-   "nbTotal": 4028
+   "nbCat": 399,
+   "nbSex": 1857,
+   "nbTotal": 4032
   },
   {
    "bib": 1096,
@@ -200,9 +200,9 @@
    "last": "Estival",
    "sex": "M",
    "cat": "M3",
-   "nbCat": 414,
-   "nbSex": 1855,
-   "nbTotal": 4028
+   "nbCat": 415,
+   "nbSex": 1857,
+   "nbTotal": 4032
   },
   {
    "bib": 1134,
@@ -211,9 +211,9 @@
    "last": "Finocchiaro",
    "sex": "M",
    "cat": "M1",
-   "nbCat": 398,
-   "nbSex": 1855,
-   "nbTotal": 4028
+   "nbCat": 399,
+   "nbSex": 1857,
+   "nbTotal": 4032
   },
   {
    "bib": 1627,
@@ -223,8 +223,8 @@
    "sex": "M",
    "cat": "SE",
    "nbCat": 833,
-   "nbSex": 1855,
-   "nbTotal": 4028
+   "nbSex": 1857,
+   "nbTotal": 4032
   },
   {
    "bib": 2133,
@@ -234,8 +234,8 @@
    "sex": "F",
    "cat": "M2",
    "nbCat": 451,
-   "nbSex": 2173,
-   "nbTotal": 4028
+   "nbSex": 2175,
+   "nbTotal": 4032
   },
   {
    "bib": 1098,
@@ -244,9 +244,9 @@
    "last": "Hulevich",
    "sex": "F",
    "cat": "M1",
-   "nbCat": 398,
-   "nbSex": 2173,
-   "nbTotal": 4028
+   "nbCat": 399,
+   "nbSex": 2175,
+   "nbTotal": 4032
   },
   {
    "bib": 2136,
@@ -256,8 +256,8 @@
    "sex": "M",
    "cat": "SE",
    "nbCat": 833,
-   "nbSex": 1855,
-   "nbTotal": 4028
+   "nbSex": 1857,
+   "nbTotal": 4032
   },
   {
    "bib": 2115,
@@ -267,8 +267,8 @@
    "sex": "F",
    "cat": "SE",
    "nbCat": 833,
-   "nbSex": 2173,
-   "nbTotal": 4028
+   "nbSex": 2175,
+   "nbTotal": 4032
   },
   {
    "bib": 1458,
@@ -278,8 +278,8 @@
    "sex": "M",
    "cat": "M2",
    "nbCat": 451,
-   "nbSex": 1855,
-   "nbTotal": 4028
+   "nbSex": 1857,
+   "nbTotal": 4032
   },
   {
    "bib": 1452,
@@ -289,8 +289,8 @@
    "sex": "M",
    "cat": "SE",
    "nbCat": 833,
-   "nbSex": 1855,
-   "nbTotal": 4028
+   "nbSex": 1857,
+   "nbTotal": 4032
   },
   {
    "bib": 1112,
@@ -300,8 +300,8 @@
    "sex": "M",
    "cat": "SE",
    "nbCat": 833,
-   "nbSex": 1855,
-   "nbTotal": 4028
+   "nbSex": 1857,
+   "nbTotal": 4032
   },
   {
    "bib": 1321,
@@ -311,8 +311,8 @@
    "sex": "M",
    "cat": "SE",
    "nbCat": 833,
-   "nbSex": 1855,
-   "nbTotal": 4028
+   "nbSex": 1857,
+   "nbTotal": 4032
   },
   {
    "bib": 3604,
@@ -322,8 +322,8 @@
    "sex": "M",
    "cat": "M0",
    "nbCat": 339,
-   "nbSex": 1855,
-   "nbTotal": 4028
+   "nbSex": 1857,
+   "nbTotal": 4032
   },
   {
    "bib": 1111,
@@ -333,8 +333,8 @@
    "sex": "M",
    "cat": "M0",
    "nbCat": 339,
-   "nbSex": 1855,
-   "nbTotal": 4028
+   "nbSex": 1857,
+   "nbTotal": 4032
   },
   {
    "bib": 1099,
@@ -344,8 +344,8 @@
    "sex": "M",
    "cat": "SE",
    "nbCat": 833,
-   "nbSex": 1855,
-   "nbTotal": 4028
+   "nbSex": 1857,
+   "nbTotal": 4032
   },
   {
    "bib": 1152,
@@ -355,8 +355,8 @@
    "sex": "M",
    "cat": "SE",
    "nbCat": 833,
-   "nbSex": 1855,
-   "nbTotal": 4028
+   "nbSex": 1857,
+   "nbTotal": 4032
   },
   {
    "bib": 1097,
@@ -366,8 +366,8 @@
    "sex": "F",
    "cat": "M0",
    "nbCat": 339,
-   "nbSex": 2173,
-   "nbTotal": 4028
+   "nbSex": 2175,
+   "nbTotal": 4032
   },
   {
    "bib": 1285,
@@ -377,8 +377,8 @@
    "sex": "M",
    "cat": "SE",
    "nbCat": 833,
-   "nbSex": 1855,
-   "nbTotal": 4028
+   "nbSex": 1857,
+   "nbTotal": 4032
   },
   {
    "bib": 1145,
@@ -387,9 +387,9 @@
    "last": "Moschetti",
    "sex": "M",
    "cat": "M3",
-   "nbCat": 414,
-   "nbSex": 1855,
-   "nbTotal": 4028
+   "nbCat": 415,
+   "nbSex": 1857,
+   "nbTotal": 4032
   },
   {
    "bib": 2130,
@@ -399,8 +399,8 @@
    "sex": "M",
    "cat": "SE",
    "nbCat": 833,
-   "nbSex": 1855,
-   "nbTotal": 4028
+   "nbSex": 1857,
+   "nbTotal": 4032
   },
   {
    "bib": 1451,
@@ -410,8 +410,8 @@
    "sex": "F",
    "cat": "SE",
    "nbCat": 833,
-   "nbSex": 2173,
-   "nbTotal": 4028
+   "nbSex": 2175,
+   "nbTotal": 4032
   },
   {
    "bib": 1089,
@@ -420,9 +420,9 @@
    "last": "Olivier",
    "sex": "M",
    "cat": "M3",
-   "nbCat": 414,
-   "nbSex": 1855,
-   "nbTotal": 4028
+   "nbCat": 415,
+   "nbSex": 1857,
+   "nbTotal": 4032
   },
   {
    "bib": 2120,
@@ -432,8 +432,8 @@
    "sex": "M",
    "cat": "M0",
    "nbCat": 339,
-   "nbSex": 1855,
-   "nbTotal": 4028
+   "nbSex": 1857,
+   "nbTotal": 4032
   },
   {
    "bib": 1445,
@@ -442,9 +442,9 @@
    "last": "Rost",
    "sex": "M",
    "cat": "M1",
-   "nbCat": 398,
-   "nbSex": 1855,
-   "nbTotal": 4028
+   "nbCat": 399,
+   "nbSex": 1857,
+   "nbTotal": 4032
   },
   {
    "bib": 2118,
@@ -454,8 +454,8 @@
    "sex": "F",
    "cat": "SE",
    "nbCat": 833,
-   "nbSex": 2173,
-   "nbTotal": 4028
+   "nbSex": 2175,
+   "nbTotal": 4032
   },
   {
    "bib": 1136,
@@ -465,8 +465,8 @@
    "sex": "M",
    "cat": "SE",
    "nbCat": 833,
-   "nbSex": 1855,
-   "nbTotal": 4028
+   "nbSex": 1857,
+   "nbTotal": 4032
   },
   {
    "bib": 1534,
@@ -476,8 +476,8 @@
    "sex": "M",
    "cat": "SE",
    "nbCat": 833,
-   "nbSex": 1855,
-   "nbTotal": 4028
+   "nbSex": 1857,
+   "nbTotal": 4032
   },
   {
    "bib": 1910,
@@ -487,8 +487,8 @@
    "sex": "M",
    "cat": "M0",
    "nbCat": 339,
-   "nbSex": 1855,
-   "nbTotal": 4028
+   "nbSex": 1857,
+   "nbTotal": 4032
   },
   {
    "bib": 1143,
@@ -498,8 +498,8 @@
    "sex": "M",
    "cat": "SE",
    "nbCat": 833,
-   "nbSex": 1855,
-   "nbTotal": 4028
+   "nbSex": 1857,
+   "nbTotal": 4032
   }
  ]
 }
