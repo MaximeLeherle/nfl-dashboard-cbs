@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-21T06:04:55.426Z",
+ "updatedAt": "2026-11-21T07:09:55.788Z",
  "eventId": 101,
  "races": [
   {
@@ -43,9 +43,9 @@
    "last": "Amiard",
    "sex": "M",
    "cat": "SE",
-   "nbCat": 2366,
-   "nbSex": 4704,
-   "nbTotal": 10021
+   "nbCat": 2369,
+   "nbSex": 4706,
+   "nbTotal": 10026
   },
   {
    "bib": 1322,
@@ -55,8 +55,8 @@
    "sex": "M",
    "cat": "M0",
    "nbCat": 946,
-   "nbSex": 4704,
-   "nbTotal": 10021
+   "nbSex": 4706,
+   "nbTotal": 10026
   },
   {
    "bib": 12923,
@@ -66,8 +66,8 @@
    "sex": "F",
    "cat": "M0",
    "nbCat": 946,
-   "nbSex": 5317,
-   "nbTotal": 10021
+   "nbSex": 5320,
+   "nbTotal": 10026
   },
   {
    "bib": 12834,
@@ -77,8 +77,8 @@
    "sex": "F",
    "cat": "M2",
    "nbCat": 1090,
-   "nbSex": 5317,
-   "nbTotal": 10021
+   "nbSex": 5320,
+   "nbTotal": 10026
   },
   {
    "bib": 2345,
@@ -88,8 +88,8 @@
    "sex": "M",
    "cat": "M2",
    "nbCat": 1090,
-   "nbSex": 4704,
-   "nbTotal": 10021
+   "nbSex": 4706,
+   "nbTotal": 10026
   },
   {
    "bib": 13722,
@@ -98,9 +98,9 @@
    "last": "Brossette",
    "sex": "F",
    "cat": "SE",
-   "nbCat": 2366,
-   "nbSex": 5317,
-   "nbTotal": 10021
+   "nbCat": 2369,
+   "nbSex": 5320,
+   "nbTotal": 10026
   },
   {
    "bib": 3605,
@@ -109,9 +109,9 @@
    "last": "Brossette",
    "sex": "F",
    "cat": "SE",
-   "nbCat": 2366,
-   "nbSex": 5317,
-   "nbTotal": 10021
+   "nbCat": 2369,
+   "nbSex": 5320,
+   "nbTotal": 10026
   },
   {
    "bib": 1450,
@@ -120,9 +120,9 @@
    "last": "Brunet",
    "sex": "M",
    "cat": "M1",
-   "nbCat": 1018,
-   "nbSex": 4704,
-   "nbTotal": 10021
+   "nbCat": 1020,
+   "nbSex": 4706,
+   "nbTotal": 10026
   },
   {
    "bib": 1446,
@@ -131,9 +131,9 @@
    "last": "Capron",
    "sex": "M",
    "cat": "SE",
-   "nbCat": 2366,
-   "nbSex": 4704,
-   "nbTotal": 10021
+   "nbCat": 2369,
+   "nbSex": 4706,
+   "nbTotal": 10026
   },
   {
    "bib": 1095,
@@ -142,9 +142,9 @@
    "last": "Carré",
    "sex": "M",
    "cat": "SE",
-   "nbCat": 2366,
-   "nbSex": 4704,
-   "nbTotal": 10021
+   "nbCat": 2369,
+   "nbSex": 4706,
+   "nbTotal": 10026
   },
   {
    "bib": 2117,
@@ -154,8 +154,8 @@
    "sex": "F",
    "cat": "M2",
    "nbCat": 1090,
-   "nbSex": 5317,
-   "nbTotal": 10021
+   "nbSex": 5320,
+   "nbTotal": 10026
   },
   {
    "bib": 2116,
@@ -164,9 +164,9 @@
    "last": "Daoud",
    "sex": "M",
    "cat": "SE",
-   "nbCat": 2366,
-   "nbSex": 4704,
-   "nbTotal": 10021
+   "nbCat": 2369,
+   "nbSex": 4706,
+   "nbTotal": 10026
   },
   {
    "bib": 2114,
@@ -176,8 +176,8 @@
    "sex": "M",
    "cat": "M0",
    "nbCat": 946,
-   "nbSex": 4704,
-   "nbTotal": 10021
+   "nbSex": 4706,
+   "nbTotal": 10026
   },
   {
    "bib": 2347,
@@ -187,8 +187,8 @@
    "sex": "M",
    "cat": "M3",
    "nbCat": 956,
-   "nbSex": 4704,
-   "nbTotal": 10021
+   "nbSex": 4706,
+   "nbTotal": 10026
   },
   {
    "bib": 2119,
@@ -197,9 +197,9 @@
    "last": "El Hachem",
    "sex": "M",
    "cat": "M1",
-   "nbCat": 1018,
-   "nbSex": 4704,
-   "nbTotal": 10021
+   "nbCat": 1020,
+   "nbSex": 4706,
+   "nbTotal": 10026
   },
   {
    "bib": 1135,
@@ -208,9 +208,9 @@
    "last": "Er-Rhif",
    "sex": "M",
    "cat": "M1",
-   "nbCat": 1018,
-   "nbSex": 4704,
-   "nbTotal": 10021
+   "nbCat": 1020,
+   "nbSex": 4706,
+   "nbTotal": 10026
   },
   {
    "bib": 1096,
@@ -220,8 +220,8 @@
    "sex": "M",
    "cat": "M3",
    "nbCat": 956,
-   "nbSex": 4704,
-   "nbTotal": 10021
+   "nbSex": 4706,
+   "nbTotal": 10026
   },
   {
    "bib": 1134,
@@ -230,9 +230,9 @@
    "last": "Finocchiaro",
    "sex": "M",
    "cat": "M1",
-   "nbCat": 1018,
-   "nbSex": 4704,
-   "nbTotal": 10021
+   "nbCat": 1020,
+   "nbSex": 4706,
+   "nbTotal": 10026
   },
   {
    "bib": 1627,
@@ -241,9 +241,9 @@
    "last": "Garel",
    "sex": "M",
    "cat": "SE",
-   "nbCat": 2366,
-   "nbSex": 4704,
-   "nbTotal": 10021
+   "nbCat": 2369,
+   "nbSex": 4706,
+   "nbTotal": 10026
   },
   {
    "bib": 2133,
@@ -253,8 +253,8 @@
    "sex": "F",
    "cat": "M2",
    "nbCat": 1090,
-   "nbSex": 5317,
-   "nbTotal": 10021
+   "nbSex": 5320,
+   "nbTotal": 10026
   },
   {
    "bib": 1098,
@@ -263,9 +263,9 @@
    "last": "Hulevich",
    "sex": "F",
    "cat": "M1",
-   "nbCat": 1018,
-   "nbSex": 5317,
-   "nbTotal": 10021
+   "nbCat": 1020,
+   "nbSex": 5320,
+   "nbTotal": 10026
   },
   {
    "bib": 2136,
@@ -274,9 +274,9 @@
    "last": "Jeannes",
    "sex": "M",
    "cat": "SE",
-   "nbCat": 2366,
-   "nbSex": 4704,
-   "nbTotal": 10021
+   "nbCat": 2369,
+   "nbSex": 4706,
+   "nbTotal": 10026
   },
   {
    "bib": 2115,
@@ -285,9 +285,9 @@
    "last": "Khorn",
    "sex": "F",
    "cat": "SE",
-   "nbCat": 2366,
-   "nbSex": 5317,
-   "nbTotal": 10021
+   "nbCat": 2369,
+   "nbSex": 5320,
+   "nbTotal": 10026
   },
   {
    "bib": 1458,
@@ -297,8 +297,8 @@
    "sex": "M",
    "cat": "M2",
    "nbCat": 1090,
-   "nbSex": 4704,
-   "nbTotal": 10021
+   "nbSex": 4706,
+   "nbTotal": 10026
   },
   {
    "bib": 1452,
@@ -307,9 +307,9 @@
    "last": "Labaste",
    "sex": "M",
    "cat": "SE",
-   "nbCat": 2366,
-   "nbSex": 4704,
-   "nbTotal": 10021
+   "nbCat": 2369,
+   "nbSex": 4706,
+   "nbTotal": 10026
   },
   {
    "bib": 1112,
@@ -318,9 +318,9 @@
    "last": "Leherle",
    "sex": "M",
    "cat": "SE",
-   "nbCat": 2366,
-   "nbSex": 4704,
-   "nbTotal": 10021
+   "nbCat": 2369,
+   "nbSex": 4706,
+   "nbTotal": 10026
   },
   {
    "bib": 1321,
@@ -329,9 +329,9 @@
    "last": "Lheureux",
    "sex": "M",
    "cat": "SE",
-   "nbCat": 2366,
-   "nbSex": 4704,
-   "nbTotal": 10021
+   "nbCat": 2369,
+   "nbSex": 4706,
+   "nbTotal": 10026
   },
   {
    "bib": 3604,
@@ -341,8 +341,8 @@
    "sex": "M",
    "cat": "M0",
    "nbCat": 946,
-   "nbSex": 4704,
-   "nbTotal": 10021
+   "nbSex": 4706,
+   "nbTotal": 10026
   },
   {
    "bib": 1111,
@@ -352,8 +352,8 @@
    "sex": "M",
    "cat": "M0",
    "nbCat": 946,
-   "nbSex": 4704,
-   "nbTotal": 10021
+   "nbSex": 4706,
+   "nbTotal": 10026
   },
   {
    "bib": 1099,
@@ -362,9 +362,9 @@
    "last": "Maillet",
    "sex": "M",
    "cat": "SE",
-   "nbCat": 2366,
-   "nbSex": 4704,
-   "nbTotal": 10021
+   "nbCat": 2369,
+   "nbSex": 4706,
+   "nbTotal": 10026
   },
   {
    "bib": 1152,
@@ -373,9 +373,9 @@
    "last": "Mercier",
    "sex": "M",
    "cat": "SE",
-   "nbCat": 2366,
-   "nbSex": 4704,
-   "nbTotal": 10021
+   "nbCat": 2369,
+   "nbSex": 4706,
+   "nbTotal": 10026
   },
   {
    "bib": 1097,
@@ -385,8 +385,8 @@
    "sex": "F",
    "cat": "M0",
    "nbCat": 946,
-   "nbSex": 5317,
-   "nbTotal": 10021
+   "nbSex": 5320,
+   "nbTotal": 10026
   },
   {
    "bib": 1285,
@@ -395,9 +395,9 @@
    "last": "Michel",
    "sex": "M",
    "cat": "SE",
-   "nbCat": 2366,
-   "nbSex": 4704,
-   "nbTotal": 10021
+   "nbCat": 2369,
+   "nbSex": 4706,
+   "nbTotal": 10026
   },
   {
    "bib": 1145,
@@ -407,8 +407,8 @@
    "sex": "M",
    "cat": "M3",
    "nbCat": 956,
-   "nbSex": 4704,
-   "nbTotal": 10021
+   "nbSex": 4706,
+   "nbTotal": 10026
   },
   {
    "bib": 2130,
@@ -417,9 +417,9 @@
    "last": "Naud",
    "sex": "M",
    "cat": "SE",
-   "nbCat": 2366,
-   "nbSex": 4704,
-   "nbTotal": 10021
+   "nbCat": 2369,
+   "nbSex": 4706,
+   "nbTotal": 10026
   },
   {
    "bib": 1451,
@@ -428,9 +428,9 @@
    "last": "Nowak",
    "sex": "F",
    "cat": "SE",
-   "nbCat": 2366,
-   "nbSex": 5317,
-   "nbTotal": 10021
+   "nbCat": 2369,
+   "nbSex": 5320,
+   "nbTotal": 10026
   },
   {
    "bib": 1089,
@@ -440,8 +440,8 @@
    "sex": "M",
    "cat": "M3",
    "nbCat": 956,
-   "nbSex": 4704,
-   "nbTotal": 10021
+   "nbSex": 4706,
+   "nbTotal": 10026
   },
   {
    "bib": 2120,
@@ -451,8 +451,8 @@
    "sex": "M",
    "cat": "M0",
    "nbCat": 946,
-   "nbSex": 4704,
-   "nbTotal": 10021
+   "nbSex": 4706,
+   "nbTotal": 10026
   },
   {
    "bib": 1445,
@@ -461,9 +461,9 @@
    "last": "Rost",
    "sex": "M",
    "cat": "M1",
-   "nbCat": 1018,
-   "nbSex": 4704,
-   "nbTotal": 10021
+   "nbCat": 1020,
+   "nbSex": 4706,
+   "nbTotal": 10026
   },
   {
    "bib": 2118,
@@ -472,9 +472,9 @@
    "last": "Tcherguizova",
    "sex": "F",
    "cat": "SE",
-   "nbCat": 2366,
-   "nbSex": 5317,
-   "nbTotal": 10021
+   "nbCat": 2369,
+   "nbSex": 5320,
+   "nbTotal": 10026
   },
   {
    "bib": 1136,
@@ -483,9 +483,9 @@
    "last": "Tsang",
    "sex": "M",
    "cat": "SE",
-   "nbCat": 2366,
-   "nbSex": 4704,
-   "nbTotal": 10021
+   "nbCat": 2369,
+   "nbSex": 4706,
+   "nbTotal": 10026
   },
   {
    "bib": 1534,
@@ -494,9 +494,9 @@
    "last": "Vassalo",
    "sex": "M",
    "cat": "SE",
-   "nbCat": 2366,
-   "nbSex": 4704,
-   "nbTotal": 10021
+   "nbCat": 2369,
+   "nbSex": 4706,
+   "nbTotal": 10026
   },
   {
    "bib": 1910,
@@ -506,8 +506,8 @@
    "sex": "M",
    "cat": "M0",
    "nbCat": 946,
-   "nbSex": 4704,
-   "nbTotal": 10021
+   "nbSex": 4706,
+   "nbTotal": 10026
   },
   {
    "bib": 1143,
@@ -516,9 +516,9 @@
    "last": "Villedieu",
    "sex": "M",
    "cat": "SE",
-   "nbCat": 2366,
-   "nbSex": 4704,
-   "nbTotal": 10021
+   "nbCat": 2369,
+   "nbSex": 4706,
+   "nbTotal": 10026
   }
  ]
 }
